@@ -1,1 +1,2 @@
-Este es mi segunto arcchivo de prueba
+Este es mi segundo archivo de prueba
+vamos a ver como funciona cuando se edita una línea.
