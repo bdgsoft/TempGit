@@ -1,1 +1,2 @@
 Este es mi primer archivo de prueba
+y lo edito para ver que detecta git cuando se cambia un archivo
