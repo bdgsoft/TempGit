@@ -1,14 +1,24 @@
+﻿y modifico el orden
+
 Esto es una prueba de 
-una ramajiuikk ooooo
-xxxxxx
+
+una rama no debe hacer mege automático
+
 Pero en varias partes del archivo, para ver como se comporta.
 Vo y a modificar este archivo para ver como se actualiza por comandos
 con git remotamente
 
-desde esl portatil hapgo rl cambio y quiero verlo reflejado 
+Cuando hay varios cambios en varias partes
+
+desde esl portatil hago el cambio y quiero verlo reflejado 
+
 en eno mr acuerdol otro equipo
+en porque hay conflicto el otro equipo
 
 lo cambio desde el portatil para conflicto
 Lo cambio desde pc para conflicto
 Vuelbo a crear conflicto para resolverlo por la interfaz
 
+vamos a ver que pasa
+
+Agrego otra línea

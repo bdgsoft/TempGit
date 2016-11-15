@@ -2,3 +2,5 @@ Titulo.
 1. Este es mi primer archivo de prueba
 2. y lo edito para ver que detecta git cuando se cambia un archivo
 3. Y sigo adicionando líneas al archivo
+
+Si se incluye todo lo que necesito.
