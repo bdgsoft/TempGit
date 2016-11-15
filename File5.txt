@@ -1,5 +1,7 @@
+y modifico el orden
+
 Esto es una prueba de 
-una rama
+una rama no debe hacer mege automático
 Pero en varias partes del archivo, para ver como se comporta.
 Vo y a modificar este archivo para ver como se actualiza por comandos
 con git remotamente
@@ -7,10 +9,12 @@ con git remotamente
 Cuando hay varios cambios en varias partes
 
 desde esl portatil hapgo rl cambio y quiero verlo reflejado 
-en el otro equipo
+en porque hay conflicto el otro equipo
 
 lo cambio desde el portatil para conflicto
 Lo cambio desde pc para conflicto
 Vuelbo a crear conflicto para resolverlo por la interfaz
 
 vamos a ver que pasa
+
+Agrego otra línea
