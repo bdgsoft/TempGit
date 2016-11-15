@@ -1,2 +1,5 @@
 Esto es una prueba de 
 una rama
+
+Vo y a modificar este archivo para ver como se actualiza por comandos
+con git remotamente
