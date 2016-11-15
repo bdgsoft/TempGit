@@ -3,3 +3,6 @@ una rama
 
 Vo y a modificar este archivo para ver como se actualiza por comandos
 con git remotamente
+
+desde esl portatil hapgo rl cambio y quiero verlo reflejado 
+en el otro equipo
