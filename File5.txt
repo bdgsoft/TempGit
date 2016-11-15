@@ -1,14 +1,13 @@
 Esto es una prueba de 
 una rama
-
+Pero en varias partes del archivo, para ver como se comporta.
 Vo y a modificar este archivo para ver como se actualiza por comandos
 con git remotamente
 
 desde esl portatil hapgo rl cambio y quiero verlo reflejado 
 en el otro equipo
 
-
 lo cambio desde el portatil para conflicto
-
 Lo cambio desde pc para conflicto
+Vuelbo a crear conflicto para resolverlo por la interfaz
 
