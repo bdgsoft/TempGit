@@ -6,3 +6,5 @@ con git remotamente
 
 desde esl portatil hapgo rl cambio y quiero verlo reflejado 
 en el otro equipo
+
+lo cambio desde el portatil para conflicto
